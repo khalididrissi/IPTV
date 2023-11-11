@@ -1,49 +1,72 @@
 #EXTM3U
 #EXTINF:-1,BEIN SPORTS NEWS HD
+#EXTVLCOPT:http-user-agent=airmaxpro
 https://airmaxtv.online:443/airmaxpro66de/airmaxprode66/2.ts
 #EXTINF:-1,BEIN  SPORTS HD
+#EXTVLCOPT:http-user-agent=airmaxpro
 https://airmaxtv.online:443/airmaxpro66de/airmaxprode66/3.ts
 #EXTINF:-1,BeinSport1
+#EXTVLCOPT:http-user-agent=airmaxpro
 https://airmaxtv.online:443/airmaxpro66de/airmaxprode66/4.ts
 #EXTINF:-1,BeinSport2
+#EXTVLCOPT:http-user-agent=airmaxpro
 https://airmaxtv.online:443/airmaxpro66de/airmaxprode66/5.ts
 #EXTINF:-1,BeinSport3
+#EXTVLCOPT:http-user-agent=airmaxpro
 https://airmaxtv.online:443/airmaxpro66de/airmaxprode66/6.ts
 #EXTINF:-1,BeinSport4
+#EXTVLCOPT:http-user-agent=airmaxpro
 https://airmaxtv.online:443/airmaxpro66de/airmaxprode66/10.ts
 #EXTINF:-1,BeinSport5
+#EXTVLCOPT:http-user-agent=airmaxpro
 https://airmaxtv.online:443/airmaxpro66de/airmaxprode66/11.ts
 #EXTINF:-1,BeinSport6
+#EXTVLCOPT:http-user-agent=airmaxpro
 https://airmaxtv.online:443/airmaxpro66de/airmaxprode66/12.ts
 #EXTINF:-1,BeinSport7
+#EXTVLCOPT:http-user-agent=airmaxpro
 https://airmaxtv.online:443/airmaxpro66de/airmaxprode66/13.ts
 #EXTINF:-1,BeinSport8
+#EXTVLCOPT:http-user-agent=airmaxpro
 https://airmaxtv.online:443/airmaxpro66de/airmaxprode66/7.ts
 #EXTINF:-1,BeinSport9
+#EXTVLCOPT:http-user-agent=airmaxpro
 https://airmaxtv.online:443/airmaxpro66de/airmaxprode66/8.ts
 #EXTINF:-1,BEIN SPORTS French HD1
+#EXTVLCOPT:http-user-agent=airmaxpro
 https://airmaxtv.online:443/airmaxpro66de/airmaxprode66/19.ts
 #EXTINF:-1,BEIN SPORTS French HD2
+#EXTVLCOPT:http-user-agent=airmaxpro
 https://airmaxtv.online:443/airmaxpro66de/airmaxprode66/20.ts
 #EXTINF:-1,ad sport premium 1 ᴴᴰ
+#EXTVLCOPT:http-user-agent=airmaxpro
 https://airmaxtv.online:443/airmaxpro66de/airmaxprode66/295.ts
 #EXTINF:-1,ad sport premium 2 ᴴᴰ
+#EXTVLCOPT:http-user-agent=airmaxpro
 https://airmaxtv.online:443/airmaxpro66de/airmaxprode66/296.ts
 #EXTINF:-1,ssc news ᴴᴰ
+#EXTVLCOPT:http-user-agent=airmaxpro
 https://airmaxtv.online:443/airmaxpro66de/airmaxprode66/21.ts
 #EXTINF:-1,ssc 1 ᴴᴰ
+#EXTVLCOPT:http-user-agent=airmaxpro
 https://airmaxtv.online:443/airmaxpro66de/airmaxprode66/22.ts
 #EXTINF:-1,ssc 2 ᴴᴰ
+#EXTVLCOPT:http-user-agent=airmaxpro
 https://airmaxtv.online:443/airmaxpro66de/airmaxprode66/23.ts
 #EXTINF:-1,ssc 3 ᴴᴰ
+#EXTVLCOPT:http-user-agent=airmaxpro
 https://airmaxtv.online:443/airmaxpro66de/airmaxprode66/24.ts
 #EXTINF:-1,ssc 4 ᴴᴰ
+#EXTVLCOPT:http-user-agent=airmaxpro
 https://airmaxtv.online:443/airmaxpro66de/airmaxprode66/25.ts
 #EXTINF:-1,ssc 5 ᴴᴰ
+#EXTVLCOPT:http-user-agent=airmaxpro
 https://airmaxtv.online:443/airmaxpro66de/airmaxprode66/26.ts
 #EXTINF:-1,ssc 1 extra ᴴᴰ
+#EXTVLCOPT:http-user-agent=airmaxpro
 https://airmaxtv.online:443/airmaxpro66de/airmaxprode66/27.ts
 #EXTINF:-1,ssc 2 extra ᴴᴰ
+#EXTVLCOPT:http-user-agent=airmaxpro
 https://airmaxtv.online:443/airmaxpro66de/airmaxprode66/28.ts
 #EXTINF:-1,BEIN_Sports_News
 http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/2296
