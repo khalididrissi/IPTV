@@ -1,232 +1,77 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1,BeIN Sports 1 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqy6VRX9SCVn6_-xPyGdjifA/ts
-#EXTINF:-1,BeIN Sports 2 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq9ur1ZsUstvF3NwRuFJBkco/ts
-#EXTINF:-1,BeIN Sports 3 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq15m6dNIkup7EArRh1j6kzg/ts
-#EXTINF:-1,BeIN Sports 4 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq6_Vf2t62rzJlmiB6pCXa5g/ts
-#EXTINF:-1,BeIN Sports 5 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq1RA2TBo7dFjYMSqxseMNgs/ts
-#EXTINF:-1,BeIN Sports 6 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqwE1DVWhNIhc6wxdSrC1rz0/ts
-#EXTINF:-1,BeIN Sports 7 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq3tkRzs9C_wCUupGUFFS8mE/ts
-#EXTINF:-1,BeIN Sports 1 SD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq5ZF82_BXYHPrKLsgf9jZOw/ts
-#EXTINF:-1,BeIN Sports 2 SD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqysVquiiBW9jriUMBklRVdE/ts
-#EXTINF:-1,BeIN Sports 3 SD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq9Ekv6ABVjHH9IKYAMKoSxc/ts
-#EXTINF:-1,BeIN Sports 4 SD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq4bYvUAwYvofZ9ZrGLl1NiU/ts
-#EXTINF:-1,BeIN Sports 5 SD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq4i9gDTdVud_G92hWfnWb5w/ts
-#EXTINF:-1,BeIN Sports 6 SD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq-H6EtQgjNRW8jzLATUfLpY/ts
-#EXTINF:-1,BeIN Sports 7 SD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqwbyZD9dYJ-yKoxMK7S2o0E/ts
-#EXTINF:-1,BeIN Sports 1 4K
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq1ZN14ncTuqcnblhcLJJGTM/ts
-#EXTINF:-1,BeIN Sports 2 4K
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq5dDW_BviH4EWz2ZUpWwnDY/ts
-#EXTINF:-1,BeIN Sports 3 4K
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq-RIq8_dPBUXXpBfd2MgnxI/ts
-#EXTINF:-1,BeIN Sports 4 4K
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq3OtdHkwt-m54sClmVuxCNk/ts
-#EXTINF:-1,BeIN Sports 5 4K
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq0XVZyWWXXqAApg0qDEoxKs/ts
-#EXTINF:-1,BeIN Sports 6 4K
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq1ICCqnW8vLspctUP06xO_8/ts
-#EXTINF:-1,BeIN Sports 7 4K
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq_1DxvvTTQ2ErgUcUCqoZcc/ts
-#EXTINF:-1,BeIN Sports 1 FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq5hmTFs3-o6QotnDaZurxeE/ts
-#EXTINF:-1,BeIN Sports 2 FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqz-JRNmk7bJmKeh_RmeZjCA/ts
-#EXTINF:-1,BeIN Sports 3 FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq-7Fhr5vIa70Hfq1lvlIukg/ts
-#EXTINF:-1,BeIN Sports 4 FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq8YMFUjAx00FB7nRhuRRKq0/ts
-#EXTINF:-1,BeIN Sports 5 FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq0uXwnVRKcmufhTI_mF1gZw/ts
-#EXTINF:-1,BeIN Sports 6 FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq_HbLlW2zoNEqekrLSfqKeI/ts
-#EXTINF:-1,BeIN Sports 7 FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq6AmwTGFaNT4bQslB9GP-jM/ts
-#EXTINF:-1,BeIN Sports AFC Global 4K
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq3nCmNLqFfqNx1y4G7Y0cY4/ts
-#EXTINF:-1,BeIN Sports AFC 1 4K
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq6cyZjM7Zi4Mv_qctfSo_IY/ts
-#EXTINF:-1,BeIN Sports AFC 2 4K
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqwD370tyfHiBIJVNzokJCIM/ts
-#EXTINF:-1,BeIN Sports AFC 3 4K
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq-4SNYLqZfyjxFe93ZUi1gA/ts
-#EXTINF:-1,BeIN Sports AFC 4 4K
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqzeh6Xxs-bu_xgxQa8wmupA/ts
-#EXTINF:-1,BeIN Sports AFC 5 4K
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq0d9MN6xeC4BUEDa6oS_sY8/ts
-#EXTINF:-1,BeIN Sports AFC Global HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq_Dn1-MG0LnqoW2_D_PPtPg/ts
-#EXTINF:-1,BeIN Sports AFC 1 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq9_BcIIVNufQy8yC4Ujdbnc/ts
-#EXTINF:-1,BeIN Sports AFC 2 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqxJA_GNoILVLTbXmmCR38tA/ts
-#EXTINF:-1,BeIN Sports AFC 3 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq4LS8bUtYKwHLaOgVxq9a2A/ts
-#EXTINF:-1,BeIN Sports AFC 4 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq1Fzu1MnVnkKCkDWizx9tQU/ts
-#EXTINF:-1,BeIN Sports AFC 5 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqw_kegv94yi0U4PrNTeiBY0/ts
-#EXTINF:-1,BeIN Sports AFC Global SD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq-ap5RgBNs6mJaFUrDSfkhw/ts
-#EXTINF:-1,BeIN Sports AFC 1 SD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq0GLKBsbUUOR70ZLXFhzKBM/ts
-#EXTINF:-1,BeIN Sports AFC 2 SD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq1cXFuRvBg0qYrb0YAhzq7c/ts
-#EXTINF:-1,BeIN Sports AFC 3 SD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq_6Z4cxjCPJiLEJWVJgKUFo/ts
-#EXTINF:-1,BeIN Sports AFC 4 SD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq663OjQZVjo_KIU_GvzWCpg/ts
-#EXTINF:-1,BeIN Sports AFC 5 SD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqyAkWXrePuRuIu3D6frAVa0/ts
-#EXTINF:-1,SAUDI LEAGE 4K
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq1aSbIiymiTFRo8MjzDRPdw/ts
-#EXTINF:-1,SSC 1 FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqyOWG43ChrYxYDMLpLSEa5Q/ts
-#EXTINF:-1,SSC 2 FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqwwWG0it6pLt2MMYge0ziDI/ts
-#EXTINF:-1,SSC 3 FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq74V_BdTlgM9uUY3VmgJ5Ec/ts
-#EXTINF:-1,SSC 4 FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq-CbWNKi4VmEILoM7L21t3k/ts
-#EXTINF:-1,SSC 5 FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq1Xm_r1_J2WgXXZUvWgfmwM/ts
-#EXTINF:-1,SSC EXTRA 1 FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq2ASQkSqc6J73hBIbgwGkDg/ts
-#EXTINF:-1,SSC EXTRA 2 FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq5houQkgWJFCKYgA4JqwL2E/ts
-#EXTINF:-1,SSC EXTRA 3 FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqzLTab1EZUcvREyYMYZpaTQ/ts
-#EXTINF:-1,SSC 1 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq8bKQWyQnItHPUj6Tz_wXAo/ts
-#EXTINF:-1,SSC 2 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq6cZ4dq8N1LPau7Y0Ehwp8c/ts
-#EXTINF:-1,SSC 3 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqwtlQJzn-vdwOF5c_IK7KnQ/ts
-#EXTINF:-1,SSC 4 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqzIirWU8dzEMFZtoYbUZnCc/ts
-#EXTINF:-1,SSC 5 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq7fLqf0FAeOJk56iBSCqRrA/ts
-#EXTINF:-1,SSC EXTRA 1 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq5rOjmMujOleuTrkMkOl9ww/ts
-#EXTINF:-1,SSC EXTRA 2 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq_MAV-twuInSu2-pkVTY_EE/ts
-#EXTINF:-1,SSC EXTRA 3 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq9Er4FP-nwtyLtiv37MU5iA/ts
-#EXTINF:-1,AD SPORTS PREMIUM 1 FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqz8Ts5AjcOT8OXwWpTcUfzs/ts
-#EXTINF:-1,AD SPORTS PREMIUM 2 FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq6RD3s4q0ydDfTyxorV-Oqs/ts
-#EXTINF:-1,AD SPORTS PREMIUM 1 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq_3dD1iYnvxm0YYM04gKU5A/ts
-#EXTINF:-1,AD SPORTS PREMIUM 2 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq_x3LH-ukuxfuZTPhDwWUgY/ts
-#EXTINF:-1,AD SPORTS ASIA 1 FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq5lDv8J--g8n2g4SBMGgAbY/ts
-#EXTINF:-1,AD SPORTS ASIA 2 FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqw9ttyKd1pdmYLO7dz_OdJQ/ts
-#EXTINF:-1,AD SPORTS ASIA 1 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq7_HESMILDNN4-ajdrkeAnE/ts
-#EXTINF:-1,AD SPORTS ASIA 2 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq_Zj_YWIMhRudhLyTdwYT7g/ts
-#EXTINF:-1,Ar: Al Jazeera News FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq9inxf-lYPZcNk3BbMGO0fl4hvWvRJDbI5WZEYcMfozE/ts
-#EXTINF:-1,Ar: Al Jazeera News HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq9nHdWV_CalcPYglDe3NUfHdw_8L1D3fuZVOIKTwwvpy/ts
-#EXTINF:-1,Ar: Al Jazeera Mubasher FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq6V9C1HdSpp59v1sXOmxIh4e_0H7l1yRmOXEXvcr6YNG/ts
-#EXTINF:-1,Ar: Al Jazeera Mubasher HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq00jYUmBMrsKsFX_fy_av5vX29miZm0y4owHipaKtnNY/ts
-#EXTINF:-1,Ar: Al Arabiya News FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq8e-y0Tr_2PoPdF5qX2lD-haY-krlu-wO9jzxnhkqan-/ts
-#EXTINF:-1,Ar: Al Arabiya News HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq54-egPfZ3J7kk7-p8eEc7l1r11XH36Tm6Lz3Svaq64H/ts
-#EXTINF:-1,Ar: Al Sharq News FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq4LgH97jLfjFiuY1cy7oEC0G_7LMPZFYzd5MsYU9m77w/ts
-#EXTINF:-1,Ar: Al Sharq News HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqxlsa74JHG38ZXacqcnXRq-7gIElNBz0khvjsqSrgM-P/ts
-#EXTINF:-1,Ar: Sky News Arabic HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq7_Z0uR_tw5gvfP5PVqws0CctAH8TNnzGwcZTF2fplft/ts
-#EXTINF:-1,Ar: Al Hiwar TV FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqyQx2zoWCqKFdA0_RMUqom7fRhAzsS5xKRU0FYXCxZy7/ts
-#EXTINF:-1,Ar: Al Hiwar TV HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq7L-8qiOZPXd_hj9fUcC8NGmAeZqelefZapdZACYEMXF/ts
-#EXTINF:-1,Ar: BBC Arabic HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqzw1FU4RgxUhYIE8sDyNjcK6YiJ_WgWcC5yvYdD1wUJp/ts
-#EXTINF:-1,Ar: France 24 FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqwKNoNPgUGvt-3SZvJcnN3AXTB92wSBHMApIDgouZKhi/ts
-#EXTINF:-1,Ar: France 24 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq3nmtGGgV5uObYBFz03HPhkpz6ardjB0VzDdrnWo4R8p/ts
-#EXTINF:-1,Ar: Al Alam News HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqzIp5bAw5iX4UYPTKF7e968HOlwvCDN0AnvC4fDtnyW4/ts
-#EXTINF:-1,Ar: DW Arabic FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq35LqhrexRpuJg3SDlK4wLgMKBuA9F5Ol5h8XoaRutlj/ts
-#EXTINF:-1,Ar: DW Arabic HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqy5ViUA9T5ghBiULMK3aZLrjieVhDf2py068HdcJ312z/ts
-#EXTINF:-1,Ar: RT News Arabic FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq1Boui42XnPC2zv-IUTqip_fEAU8jX2a1GrXwRYApUsz/ts
-#EXTINF:-1,Ar: RT News Arabic HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq2ZwyX2zrT7jq4XCz01UuoD3ym2HzGrr_ZjThf_R2zCD/ts
-#EXTINF:-1,Ar: TRT Arabic FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq3DGHiT5Jn7fBY7T51XLxAXOnwh2LMXbbdH7c6QKIYFp/ts
-#EXTINF:-1,Ar: TRT Arabic HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqwWXQ7MQ7c-wD6bC69hekbVSpPlpUeR_SbN86kIm4X5n/ts
-#EXTINF:-1,Ar: Al Araby TV FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq1-ODLo3aDzHW-hZBTL-6vS-kKPFD51h-CHs2_ugV3bh/ts
-#EXTINF:-1,Ar: Al Araby TV HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq120W8Rpy-J8sQxqEPwG671jzGX1NckPhqqiHFRwmxWN/ts
-#EXTINF:-1,Ar: Al Araby 2 TV FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq4vrMgL9uQYdTFrbnlU8vjc3WxGxcnVEeYmkOCzpQraq/ts
-#EXTINF:-1,Ar: Al Araby 2 TV HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqwgATPG5siPnX2Jm49Ka6jBqbXvrahZUMyFhvT_YHnHT/ts
-#EXTINF:-1,Ar: Al Hadath FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqyeDdrawDnqprQNbKPIvUZMMUeCjiU2tslYASYxLeen8/ts
-#EXTINF:-1,Ar: Al Hadath HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq_7_cHTTD9kSCYpQfirPMa4_0K2akbxILViAS9NrClG7/ts
-#EXTINF:-1,Ar: CNBC Arabic FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq5s1VkJpCslBvB2mW1GEcAKQflbow7qpnR6WseZdt7h9/ts
-#EXTINF:-1,Ar: CNBC Arabic HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq42WPDMN16nnWfZcQavkjhZbyktP8hxjdBZYBAVzri5l/ts
-#EXTINF:-1,Ar: Al Shorouk News
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq3UIXN6r8Q6XuJ9eJ-iyzMUTmX3Ux-T4HTZWwut_hWY-/ts
-#EXTINF:-1,Al Fajer 1 FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq3SPxluFp4mNamEhHv8jJzw/ts
-#EXTINF:-1,Al Fajer 2 FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq3vAOr4a3FN-hPXaj-TEPCc/ts
-#EXTINF:-1,Al Fajer 3 FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq_S42yVEXsWqYjtwlbmPoSA/ts
-#EXTINF:-1,Al Fajer 4 FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq9V3JPL6cO3UFiOO50AP-gA/ts
-#EXTINF:-1,Al Fajer 5 FHD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq_03y_WyXF2jF8XlHEU1PWk/ts
-#EXTINF:-1,Al Fajer 1 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq-GHCfIN-Cr_8szCkxhhXN8/ts
-#EXTINF:-1,Al Fajer 2 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq0Os_AvU4_CvNOIbrt6dr4A/ts
-#EXTINF:-1,Al Fajer 3 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq9lA4OAWXBt547IpUt2b9is/ts
-#EXTINF:-1,Al Fajer 4 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq_CF3K9QjiuOwDdc34KyaNs/ts
-#EXTINF:-1,Al Fajer 5 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq2yvWA4NkZ6-GE3qxzftmFI/ts
-#EXTINF:-1,Ar: Al Kass 1 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqwQVwg28mmnyjIbf1Mes4nlN0hHtIf7kwaCKaelEYHFs/ts
-#EXTINF:-1,Ar: Al Kass 2 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqwbOFKct1UNvjpo8T2CnVDwyFxPZHSLveNpNk6DPX2Vz/ts
-#EXTINF:-1,Ar: Al Kass 3 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq5DBIBASMzeYsuTiHrKmNPpTfF4cQqagdplSvvcWrAjd/ts
-#EXTINF:-1,Ar: Al Kass 4 HD
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq0xuQjl185HIXhdGGgUNYL9avqBplidkq_Gyuahs9Hj7/ts
+#EXTINF:-1,BEIN_Sports_News
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/2296
+#EXTINF:-1,BeIN_Sport_NBA_HD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/49691
+#EXTINF:-1,BeIN_Sport_01_SD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/3244
+#EXTINF:-1,BeIN_Sport_01_HD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/1
+#EXTINF:-1,BEIN_Sport_01_Hevc50
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/52269
+#EXTINF:-1,BeIN_Sport_02_SD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/3245
+#EXTINF:-1,BeIN_Sport_02_HD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/2
+#EXTINF:-1,BEIN_Sport_02_Hevc50
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/48878
+#EXTINF:-1,BeIN_Sport_03_SD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/3246
+#EXTINF:-1,BeIN_Sport_03_HD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/3
+#EXTINF:-1,BEIN_Sport_03_Hevc50
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/48879
+#EXTINF:-1,BeIN_Sport_04_SD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/3247
+#EXTINF:-1,BeIN_Sport_04_HD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/4
+#EXTINF:-1,BeIN_Sport_04_Hevc50
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/49606
+#EXTINF:-1,BeIN_Sport_05_SD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/49383
+#EXTINF:-1,BeIN_Sport_05_HD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/5
+#EXTINF:-1,BeIN_Sport_05_Hevc50
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/49605
+#EXTINF:-1,BeIN_Sport_06_SD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/49384
+#EXTINF:-1,BeIN_Sport_06_HD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/6
+#EXTINF:-1,BeIN_Sport_06_Hevc50
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/49621
+#EXTINF:-1,BeIN_Sport_07_SD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/49385
+#EXTINF:-1,BeIN_Sport_07_HD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/7
+#EXTINF:-1,BeIN_Sport_07_Hevc50
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/49433
+#EXTINF:-1,BeIN_Sport_08_SD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/49685
+#EXTINF:-1,BeIN_Sport_08_HD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/9
+#EXTINF:-1,BeIN_Sport_08_Hevc50
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/51018
+#EXTINF:-1,BeIN_Sport_09_SD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/49386
+#EXTINF:-1,BeIN_Sport_09_HD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/8
+#EXTINF:-1,BeIN_Sport_09_Hevc50
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/11
+#EXTINF:-1,BeIN_Sport_XTRA_01
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/10
+#EXTINF:-1,BeIN_Sport_XTRA_02
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/53670
+#EXTINF:-1,BeIN_Sport_01_French_HD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/54472
+#EXTINF:-1,BeIN_Sport_02_French_HD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/54473
+#EXTINF:-1,BeIN_Sport_01_English_HD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/54470
+#EXTINF:-1,BeIN_Sport_02_English_HD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/54469
+#EXTINF:-1,BeIN_Sport_03_English_HD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/54471
+#EXTINF:-1,FR_BeIN_SPORTS_1_FullHD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/73
+#EXTINF:-1,FR_BeIN_SPORTS_2_FullHD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/74
