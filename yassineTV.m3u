@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1,beIN Sports 1
-logo:https://i.imgur.com/bWRXZd1.jpg
+#EXTINF:-1,beIN Sports 1 -- logo:https://i.imgur.com/bWRXZd1.jpg
 http://173.212.193.243:8080/mo3ad239UY/mo3ad239UY/877
-#EXTINF:-1,beIN Sports 2 
-logo:https://i.imgur.com/oZQcVAz.jpg
+#EXTINF:-1,beIN Sports 2  -- logo:https://i.imgur.com/oZQcVAz.jpg
 http://173.212.193.243:8080/mo3ad239UY/mo3ad239UY/878
