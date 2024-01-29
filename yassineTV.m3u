@@ -1,212 +1,99 @@
 #EXTM3U
-#EXTINF:-1,Bein AFCON 1 HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/85
-#EXTINF:-1,Bein AFCON2 SD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/86
-#EXTINF:-1,Bein AFCON 1 SD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/87
-#EXTINF:-1,Bein ASIA CUP 1 SD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/42
-#EXTINF:-1,Bein ASIA CUP 1 HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/43
-#EXTINF:-1,beIN News
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/23
-#EXTINF:-1,BeinSport 1HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/24
-#EXTINF:-1,BeinSport 1SD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/25
-#EXTINF:-1,BeinSport 2HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/26
-#EXTINF:-1,BeinSport 2SD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/27
-#EXTINF:-1,BeinSport 3HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/28
-#EXTINF:-1,BeinSport 3SD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/29
-#EXTINF:-1,BeinSport 4HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/30
-#EXTINF:-1,BeinSport 4SD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/31
-#EXTINF:-1,BeinSport 5HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/32
-#EXTINF:-1,BeinSport 5 SD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/33
-#EXTINF:-1,BeinSport 6HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/34
-#EXTINF:-1,BeinSport 7HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/36
-#EXTINF:-1,BeinSport 7SD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/37
-#EXTINF:-1,BeinSport 8HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/38
-#EXTINF:-1,BeinSport 9HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/40
-#EXTINF:-1,BeinSport extra1
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/41
-#EXTINF:-1,BeinSport 6SD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/35
-#EXTINF:-1,BeinSport 8SD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/39
-#EXTINF:-1,bein_English 1
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/21
-#EXTINF:-1,beIN_NBA_HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/55
-#EXTINF:-1,Bein english 2
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/14
-#EXTINF:-1,Bein english 3
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/15
-#EXTINF:-1,Abu Dhabi Sports Premium 2
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/19
-#EXTINF:-1,Abu Dhabi Sports Premium 1
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/20
-#EXTINF:-1,alrabiaasporthd
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/47
-#EXTINF:-1,iraqiasporthd
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/48
-#EXTINF:-1,alkasstwohd
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/49
-#EXTINF:-1,alkassonehd
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/50
-#EXTINF:-1,kuwaittvsporthd
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/52
-#EXTINF:-1,ontimesportv
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/57
-#EXTINF:-1,Ontime 2
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/58
-#EXTINF:-1,SSC_01_HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/76
-#EXTINF:-1,SSC_02_HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/77
-#EXTINF:-1,SSC_03_HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/78
-#EXTINF:-1,SSC_04_HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/79
-#EXTINF:-1,SSC_05_HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/80
-#EXTINF:-1,SSC_EXTRA_1_HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/81
-#EXTINF:-1,SSC_EXTRA_2_HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/82
-#EXTINF:-1,SSC_EXTRA_3_HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/83
-#EXTINF:-1,SSC_NEWS_HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/fgpaOPqRdn/84
-#EXTM3U
-#EXTINF:-1,beIN ASIAN CUP 1
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro00/airmaxpro11/326.ts
-#EXTINF:-1,beIN ASIAN CUP 2
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro00/airmaxpro11/327.ts
-#EXTINF:-1,beIN AFCON 1
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro00/airmaxpro11/328.ts
-#EXTINF:-1,beIN AFCON 2
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro00/airmaxpro11/329.ts
-#EXTINF:-1,BeinSport1
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro00/airmaxpro11/306.ts
-#EXTINF:-1,BeinSport2
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro00/airmaxpro11/307.ts
-#EXTINF:-1,BeinSport3
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro00/airmaxpro11/308.ts
-#EXTINF:-1,BeinSport4
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro00/airmaxpro11/309.ts
-#EXTINF:-1,BeinSport4
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro00/airmaxpro11/310.ts
-#EXTINF:-1,BeinSport5
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro00/airmaxpro11/311.ts
-#EXTINF:-1,BeinSport6
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro00/airmaxpro11/312.ts
-#EXTINF:-1,BeinSport7
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro00/airmaxpro11/313.ts
-#EXTINF:-1,BEIN SPORTS7
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro00/airmaxpro11/315.ts
-#EXTINF:-1,BeinSport8
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro00/airmaxpro11/314.ts
-#EXTINF:-1,BEIN SPORTS10
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro00/airmaxpro11/316.ts
-#EXTINF:-1,ssc news ᴴᴰ
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro00/airmaxpro11/317.ts
-#EXTINF:-1,ssc 1 ᴴᴰ
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro00/airmaxpro11/318.ts
-#EXTINF:-1,ssc 2 ᴴᴰ
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro00/airmaxpro11/319.ts
-#EXTINF:-1,ssc 3 ᴴᴰ
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro00/airmaxpro11/320.ts
-#EXTINF:-1,ssc 4 ᴴᴰ
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro00/airmaxpro11/321.ts
-#EXTINF:-1,ssc 5 ᴴᴰ
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro00/airmaxpro11/322.ts
-#EXTINF:-1,ssc 1 extra ᴴᴰ
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro00/airmaxpro11/323.ts
-#EXTINF:-1,ssc 2 extra ᴴᴰ
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro00/airmaxpro11/324.ts
-#EXTINF:-1,ssc 3 extra ᴴᴰ
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro00/airmaxpro11/325.ts
+#EXTINF:-1,BEIN AFCON 1 4K
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/1149
+#EXTINF:-1,BEIN AFCON 2 FHD
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/1150
+#EXTINF:-1,BEIN AFCON 1 FHD
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/1151
+#EXTINF:-1,BEIN AFCON 2 HD
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/1152
+#EXTINF:-1,BEIN AFCON 1 HD
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/1153
+#EXTINF:-1,BEIN AFCON 2 SD
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/1154
+#EXTINF:-1,BEIN AFCON 1 SD
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/1155
+#EXTINF:-1,Bein Sport Asian Cup 1
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/1144
+#EXTINF:-1,Bein Sport Asian Cup 2
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/1145
+#EXTINF:-1,BEIN AFCON 2 4K
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/1148
+#EXTINF:-1,beIN 1 Premium FHD
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/405
+#EXTINF:-1,beIN 3 Premium FHD
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/407
+#EXTINF:-1,beIN 4 FHD
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/408
+#EXTINF:-1,beIN 5 HD
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/409
+#EXTINF:-1,beIN 2 Premium HD
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/406
+#EXTINF:-1,beIN 6 HD
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/410
+#EXTINF:-1,beIN Sports 1
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/877
+#EXTINF:-1,beIN Sports 2
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/878
+#EXTINF:-1,beIN Sports 3
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/879
+#EXTINF:-1,BeIN Sports 7 HD
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/884
+#EXTINF:-1,beIN 4 HD
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/732
+#EXTINF:-1,SSC-EXTRA 1 HD
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/882
+#EXTINF:-1,SSC-EXTRA 2 HD
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/883
+#EXTINF:-1,AD | SPORT PREMIUM 1 HD
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/880
+#EXTINF:-1,AD | SPORT PREMIUM 2 HD
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/881
+#EXTINF:-1,beIN Sports 1 VIP 
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/886
+#EXTINF:-1,beIN Sports 2 VIP 
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/887
+#EXTINF:-1,beIN Sports 3 VIP 
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/888
+#EXTINF:-1,beIN Sports 4 VIP 
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/889
+#EXTINF:-1,Bein Sport 5 VIP
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/890
+#EXTINF:-1,Bein Sport 6
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/891
+#EXTINF:-1,BEIN SPORTS 7
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/892
+#EXTINF:-1,BEIN SPORTS 8 VIP 
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/893
+#EXTINF:-1,beIN SPORTS XTRA 1
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/894
+#EXTINF:-1,beIN SPORTS XTRA 2
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/895
+#EXTINF:-1,Bahrain Sports 1
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/525
+#EXTINF:-1,Bahrain Sports 2
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/526
+#EXTINF:-1,Dubai Sports 1
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/922
+#EXTINF:-1,Dubai Sports 1
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/923
+#EXTINF:-1,Dubai Sports 2
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/924
+#EXTINF:-1,Dubai Sports 3
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/925
+#EXTINF:-1,SSC 1 HD
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/733
+#EXTINF:-1,SSC 2 HD
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/734
+#EXTINF:-1,SSC 3 HD
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/735
+#EXTINF:-1,SSC 5 HD
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/737
+#EXTINF:-1,[SPO**] * Bein Sport AFC
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/1140
+#EXTINF:-1,[SPO**] * Bein Sport AFC 1
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/1141
+#EXTINF:-1,[SPO**] * Bein Sport AFC 2
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/1142
+#EXTINF:-1,[SPO**] * Bein Sport AFC 3
+http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/1143
