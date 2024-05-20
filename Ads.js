@@ -7,15 +7,15 @@
             }
         }
 
-        blockElementsByClass('menu-section');
+        blockElementsByClass('AlbaSport_header');
 
-        blockElementsByClass('box-title');
+        blockElementsByClass('aspwp-e3lan e3lan-before_table_content');
 
-        blockElementsByClass('tabsbox section');
+        blockElementsByClass('aspwp-e3lan e3lan-after_table_content');
 
-        blockElementsByClass('footermb');
+        blockElementsByClass('site-info');
 
-        blockElementsByClass('postamp-title');
+        blockElementsByClass('widget-visible');
 
         blockElementsByClass('');
 
