@@ -7,22 +7,22 @@
             }
         }
 
-        blockElementsByClass('logo');
-
-        blockElementsByClass('notranslate');
-
-        blockElementsByClass('navbar-brand');
+        blockElementsByClass('menu-section');
 
         blockElementsByClass('box-title');
 
-        blockElementsByClass('tag-mb');
-
-        blockElementsByClass('tabsbox');
+        blockElementsByClass('tabsbox section');
 
         blockElementsByClass('footermb');
 
-        blockElementsByClass('div-gpt-ad-8176806-9');
-        blockElementsByClass('div-gpt-ad-8176806-8');
+        blockElementsByClass('postamp-title');
+
+        blockElementsByClass('');
+
+        blockElementsByClass('');
+
+        blockElementsByClass('');
+        blockElementsByClass('');
 
         blockElementsByClass('');
 
