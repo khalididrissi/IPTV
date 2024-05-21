@@ -17,7 +17,7 @@
 
         blockElementsByClass('widget-visible');
 
-        blockElementsByClass('');
+        blockElementsByClass('alba-logo mr-4 d-inline-flex align-items-center');
 
         blockElementsByClass('');
 
