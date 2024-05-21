@@ -19,16 +19,16 @@
 
         blockElementsByClass('alba-logo mr-4 d-inline-flex align-items-center');
 
-        blockElementsByClass('');
+        blockElementsByClass('aplr-fxd-bnr');
 
-        blockElementsByClass('');
-        blockElementsByClass('');
+        blockElementsByClass('aspwp-e3lan e3lan-after_match_card');
+        blockElementsByClass('aplr-fxd-bnr');
 
-        blockElementsByClass('');
+        blockElementsByClass('aplr-notic');
 
-        blockElementsByClass('');
+        blockElementsByClass('aspwp-e3lan e3lan-before_match_info');
 
-        blockElementsByClass('');
+        blockElementsByClass('aspwp-e3lan e3lan-after_match_info');
 
         blockElementsByClass('');
 
@@ -48,7 +48,9 @@
             'google_ads_iframe_/22654869840/apl_1__container__',
             'google_ads_iframe_/22893379435/apl_0__container__',
             'dontfoid', // <-- Remove this element
-            'gpt_unit_/7047,22643491855/apl/anchor/anchortop_0'
+            'gpt_unit_/7047,22643491855/apl/anchor/anchortop_0',
+            'aplr-notic-inner',
+            'aplr-notic'
         ];
 
         elementsToRemoveById.forEach(function(elementId) {
