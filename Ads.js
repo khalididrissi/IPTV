@@ -29,9 +29,9 @@
 
         blockElementsByClass('aspwp-e3lan e3lan-after_match_info');
 
-        blockElementsByClass('');
+        blockElementsByClass('aplr-bnr-inner');
 
-        blockElementsByClass('');
+        blockElementsByClass('menu-item menu-item-type-custom menu-item-object-custom menu-item-847');
 
         blockElementsByClass('');
 
