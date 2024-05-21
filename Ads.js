@@ -22,7 +22,6 @@
         blockElementsByClass('aplr-fxd-bnr');
 
         blockElementsByClass('aspwp-e3lan e3lan-after_match_card');
-        blockElementsByClass('aplr-fxd-bnr');
 
         blockElementsByClass('aplr-notic');
 
@@ -50,7 +49,8 @@
             'dontfoid', // <-- Remove this element
             'gpt_unit_/7047,22643491855/apl/anchor/anchortop_0',
             'aplr-notic-inner',
-            'aplr-notic'
+            'aplr-notic',
+            'atContainer-a2d918dabce8894ebd1006e873d52989'
         ];
 
         elementsToRemoveById.forEach(function(elementId) {
