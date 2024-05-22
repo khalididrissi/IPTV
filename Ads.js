@@ -33,7 +33,7 @@
 
         blockElementsByClass('menu-item menu-item-type-custom menu-item-object-custom menu-item-847');
 
-        blockElementsByClass('');
+        blockElementsByClass('AlbaSport-main box');
 
         blockElementsByClass('');
 
