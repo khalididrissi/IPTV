@@ -35,7 +35,7 @@
 
         blockElementsByClass('AlbaSport-main box');
 
-        blockElementsByClass('');
+        blockElementsByClass('notic-telegram');
 
 
 
@@ -50,6 +50,7 @@
             'gpt_unit_/7047,22643491855/apl/anchor/anchortop_0',
             'aplr-notic-inner',
             'aplr-notic',
+            'aplr-fixedban',
             'atContainer-a2d918dabce8894ebd1006e873d52989'
         ];
 
