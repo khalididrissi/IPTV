@@ -46,7 +46,7 @@
             'id-custom_banner',
             'google_ads_iframe_/22654869840/apl_1__container__',
             'google_ads_iframe_/22893379435/apl_0__container__',
-            'dontfoid', // <-- Remove this element
+            'dontfoid',
             'gpt_unit_/7047,22643491855/apl/anchor/anchortop_0',
             'aplr-notic-inner',
             'aplr-notic',
@@ -62,7 +62,7 @@
         });
 
         // Remove additional aplvideo elements by class name
-        var aplvideoDivs = document.getElementsByClassName('aplvideo');
+        var aplvideoDivs = document.getElementsByClassName('aplr-fixedban');
         while (aplvideoDivs.length > 0) {
             aplvideoDivs[0].remove();
         }
