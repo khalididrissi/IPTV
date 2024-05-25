@@ -1,27 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1TV.ge" tvg-logo="https://i.imgur.com/FSkYLPK.png" group-title="General",1TV (720p)
-https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
-#EXTINF:-1 tvg-id="1TwenteTV.nl" tvg-logo="https://i.imgur.com/ftiuNK3.png" group-title="General",1Twente TV (1080p)
-https://ms2.mx-cd.net/dtv-10/198-989148/1Twente_TV.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="002RadioTV.do" tvg-logo="https://i.imgur.com/7oNe8xj.png" group-title="General",002 Radio TV (720p)
-https://cdn.002radio.com:3909/live/radio002live.m3u8
-#EXTINF:-1 tvg-id="2ATV.sn" tvg-logo="https://i.imgur.com/JouRiqm.png" group-title="News",2A TV (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UCh57LRfcD3Z4TK6WrzL39GA.m3u8
-#EXTINF:-1 tvg-id="2GB.au" tvg-logo="https://i.ibb.co/jwM8DFG/2GB-1.png" group-title="News",2GB Sydney (1080p)
-https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
-#EXTINF:-1 tvg-id="2MInternational.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General",2M Monde (360p)
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
-#EXTINF:-1 tvg-id="2TV.ge" tvg-logo="https://i.imgur.com/FJBL6zI.png" group-title="General",2TV (720p)
-https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
-#EXTINF:-1 tvg-id="324.es" tvg-logo="https://i.imgur.com/l6NzX2t.png" group-title="News",3/24 (1080p)
-https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
-#EXTINF:-1 tvg-id="3ABNProclaimNetwork.us" tvg-logo="https://i.imgur.com/VoC9vr1.png" group-title="Religious",3ABN Proclaim! Network (720p)
-https://3abn-live.akamaized.net/hls/live/2010549/Proclaim/master.m3u8
-#EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/512px-3sat_2019.svg.png" group-title="General",3sat (720p) [Geo-blocked]
-https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
-#EXTINF:-1 tvg-id="3StonesTV.ke" tvg-logo="https://i.imgur.com/im3g7T2.png" group-title="General",3 Stones TV (240p) [Not 24/7]
-https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8
-#EXTINF:-1 tvg-id="3TamilTV.au" tvg-logo="https://i.imgur.com/R43HJBp.png" group-title="Entertainment",3 Tamil TV (720p) [Not 24/7]
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",4aceTV
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/N55LT0GGXOUT6SC3GJN7/hls3/now_-1m_15s/m.m3u8
+#EXTINF:0,││CINE FHD││ A&E (N)
+http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/102
+#EXTINF:0,││CINE FHD││ AMC (N)
+http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/103
+#EXTINF:0,││CINE HD││ AXN (N)
+http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/104
+#EXTINF:0,││COMEDIA HD││  UNIVERSAL COMEDY (N)
+http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/109
+#EXTINF:0,││CINE HD││ CINEMAX (N)
+http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/110
+#EXTINF:0,││CINE HD││PARAMOUT (N)
+http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/123
+#EXTINF:0,││CINE HD││ SONY (N)
+http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/124
+#EXTINF:0,││CINE HD││SPACE (N)
+http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/127
+#EXTINF:0,││CINE HD││ TNT SERIES (N)
+http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/129
+#EXTINF:0,││CINE HD││WARNER CHANNEL (N)
+http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/130
+#EXTINF:0,││CULT HD││  ANIMAL PLANET
+http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/151
+#EXTINF:0,││CULT HD││  DISCOVERY HOME&HEALTH (N)
+http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/153
