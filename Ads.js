@@ -8,6 +8,7 @@
         }
 
         blockElementsByClass('AlbaSport_header');
+        blockElementsByClass('LIVEVIPheader');
 
         blockElementsByClass('aspwp-e3lan e3lan-before_table_content');
 
